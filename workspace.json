@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "projects": {
+    "securify": "apps/securify",
+    "supa-securify": "apps/supa-securify"
+  }
+}
